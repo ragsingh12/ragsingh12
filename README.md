@@ -2,7 +2,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Bold&color=90ea14&vCenter=true&lines=Thanks+for+visiting+my+profile.)
 
-
+<hr />
 
 <!--
 **ragsingh12/ragsingh12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
